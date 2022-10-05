@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class PascasarjanaConfig(AppConfig):
+class ProfilConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'pascasarjana'
+    name = 'profil'
